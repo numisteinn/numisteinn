@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 🌱 I’m currently doing a masters programme in KTH, Software Engineering of Distributed Systems.
 <!--
 **numisteinn/numisteinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
